@@ -1,0 +1,7 @@
+[package]
+name = "noez"
+version = "0.1.0"
+authors = ["Maarten Hoogendoorn <maarten@moretea.nl>"]
+
+[dependencies.child]
+path="child"

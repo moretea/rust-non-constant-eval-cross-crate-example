@@ -1,0 +1,4 @@
+[package]
+name = "child"
+version = "0.1.0"
+authors = ["Maarten Hoogendoorn <maarten@moretea.nl>"]
